@@ -24,3 +24,4 @@ G:\Projects\C# Sample\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.Gene
 G:\Projects\C# Sample\Calculator\Calculator\obj\x86\Debug\Calculator.exe
 E:\Projects\C# Sample\Calculator\Calculator\obj\x86\Debug\Calculator.exe
 E:\Projects\C# Sample\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+G:\Projects\New folder\SecureCloud\SecureCloud\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
